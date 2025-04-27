@@ -9,8 +9,6 @@ The codes include:
 - Computation of syntactic features
 - Machine learning modeling scripts
 
-Please note that the article is currently accepted for publication and is forthcoming in *Aphasiology*.
-
 ---
 
 If you use or refer to this code in your work, please cite the above article accordingly.
